@@ -1,0 +1,2 @@
+# original_mipi_init_sequence-to-rk_dts_panel_init_sequence-convert
+ 用于将厂家给的mipi屏初始化代码转换为RK系列的dts文件的panel-init-sequence。
