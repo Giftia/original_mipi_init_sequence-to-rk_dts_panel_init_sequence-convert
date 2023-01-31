@@ -1,0 +1,23 @@
+{
+  "name": "original_mipi_init_sequence-to-rk_dts_panel_init_sequence-convert",
+  "version": "0.0.1",
+  "decription": "用于将厂家给的mipi屏初始化代码转换为RK系列的dts文件的panel-init-sequence。",
+  "license": "MIT",
+  "scripts": {
+    "run": "node index.js",
+    "pkg": "pkg . --compress GZip"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "bin": "index.js",
+  "pkg": {
+    "assets": [],
+    "targets": [
+      "node14-win-x64"
+    ],
+    "outputPath": "."
+  },
+  "engines": {
+    "node": "~14"
+  }
+}
