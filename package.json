@@ -9,6 +9,10 @@
   },
   "dependencies": {},
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "//github.com/Giftia/original_mipi_init_sequence-to-rk_dts_panel_init_sequence-convert.git"
+  },
   "bin": "index.js",
   "pkg": {
     "assets": [],
