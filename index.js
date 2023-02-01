@@ -3,7 +3,7 @@
  * Author: Giftina: https://github.com/Giftia/
  * 用于将厂家给的mipi屏初始化代码转换为RK系列的dts文件的panel-init-sequence。
  * 本程序基于 MIT 协议开源，欢迎 Fork 和 Star
- * Version: 0.0.1
+ * Version: 0.0.2
  */
 
 // 数据格式参考 https://blog.csdn.net/qq_38312843/article/details/107534743
