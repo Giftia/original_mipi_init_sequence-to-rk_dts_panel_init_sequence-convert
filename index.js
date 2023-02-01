@@ -52,7 +52,6 @@ function main() {
       lineTemp.Data.push(line.split('x')[1].split(')')[0]); // 将PAR写入Data
     }
     else if (CMDInProcess && line.startsWith('Delayms')) {
-      lineTemp.DataCount++;
       lineTemp.Delay = Number(line.split('(')[1].split(')')[0]); // 将Delayms写入Delay
       lineTemp.Type = CMD_Type.delay;
     }
